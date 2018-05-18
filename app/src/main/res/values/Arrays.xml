@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Cursos">
+        <item>@string/txt_adm</item>
+        <item>@string/txt_EC</item>
+        <item>@string/txt_EP</item>
+        <item>@string/txt_JD</item>
+        <item>@string/txt_SI</item>
+    </string-array>
+    
+    
+</resources>

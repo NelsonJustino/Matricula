@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matricula</string>
+    <string name="txt_curso">Class</string>
+    <string name="hint_name">Your Name</string>
+    <string name="bt_matricular">Matriculate</string>
+    <string name="txt_nome">Name</string>
+    <string name="hint_nome">Your Name</string>
+    <string name="txt_SI">Internet Systems</string>
+    <string name="txt_JD">Digital Games</string>
+    <string name="txt_EP">Production engineering</string>
+    <string name="txt_EC">Computer engineering</string>
+    <string name="txt_adm">Administration</string>
+</resources>
